@@ -21,3 +21,5 @@ deploy:
   app: imgflo
   on:
     repo: jonnor/imgflo
+    all_branches: true
+    tags: true
